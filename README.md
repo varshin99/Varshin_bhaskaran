@@ -1,7 +1,7 @@
 # Varshin_bhaskaran
 <h1 align="center">Hi 👋, I'm Varshin Bhaskaran</h1>
 <h3 align="center">A passionate Data Scientist & Analyst from India with a deep dive into ML and Database Management.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/varshin2" target="blank"><img src="https://img.shields.io/twitter/follow/varshin2?logo=twitter&style=for-the-badge" alt="varshin2" /></a> </p>
 
 - 🔭 I’m currently working on **Neural Machine Translation**
