@@ -1,5 +1,4 @@
 # Varshin_bhaskaran
-My_profile
 <h1 align="center">Hi 👋, I'm Varshin Bhaskaran</h1>
 <h3 align="center">A passionate Data Scientist & Analyst from India with a deep dive into ML and Database Management.</h3>
 
